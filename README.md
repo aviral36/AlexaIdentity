@@ -1,5 +1,5 @@
 # AlexaIdentity
-Identity: Skill for Amazon Aexa
+Identity: Skill for Amazon Alexa
 
 [![HitCount](http://hits.dwyl.com/aviral36/AlexaIdentity.svg)](http://hits.dwyl.com/aviral36/AlexaIdentity) [![Build Status](https://travis-ci.org/aviral36/AlexaIdentity.png?branch=master)](https://travis-ci.org/aviral36/AlexaIdentity)
 
